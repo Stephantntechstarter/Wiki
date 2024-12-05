@@ -56,3 +56,11 @@ Quellcode frei einsehen, ändern und verteilen.
     - Entwickler Linux-Tools und -Befehle auf Windows nutzenbar
 
     - ermöglicht es Software zu entwickeln und auszuführen die auf Linux basieren
+
+### Links
+
+[Basiswissen für Einsteiger](https://www.youtube.com/watch?v=tCezJq3-rSQ)
+
+[Linux für Anfänger](https://www.youtube.com/watch?v=6wJNl4W7oc0&list=PLwTB0ofFqe3FXMzQYjWXF685pW1ITzT4O)
+
+[Einführung in Linux](https://www.youtube.com/watch?v=sWbUDq4S6Y8&t=98s)
