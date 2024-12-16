@@ -15,4 +15,4 @@ if b !=0:
     division = a / b
     print("Division:", division)
 else:
-    print("Division: Fehler, Division durch Null")
+    print("Division: Fehler, Division durch null")
