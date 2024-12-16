@@ -1,9 +1,9 @@
-from datetimw import datetime
+from datetime import datetime
 
 datum_input = input("Datum (YYYY.MM.DD):")
 
 try:
-    datum = datetimw.strptime(datum_input, "%Y.%m.%d")
+    datum = datetime.strptime(datum_input, "%Y.%m.%d")
 
     weihnachtsferien_start = datetime(2024, 12, 24)
     weihnachtsferien_ende = datetime(2025, 1, 1)
